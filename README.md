@@ -1,4 +1,4 @@
-# Virtual Piano Hands
+# Virtual Piano
 
 A webcam-controlled virtual piano built with **Python, OpenCV, MediaPipe Hands, and Pygame**.
 
