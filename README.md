@@ -2,7 +2,7 @@
 
 A webcam-controlled virtual piano built with **Python, OpenCV, MediaPipe Hands, and Pygame**.
 
-Virtual Piano Hands uses real-time hand tracking to turn your webcam into a playable piano. The application detects hand landmarks and maps fingertip positions to two circular virtual keyboards, allowing the left and right hands to control separate keyboards.
+Virtual Piano uses real-time hand tracking to turn your webcam into a playable piano. The application detects hand landmarks and maps fingertip positions to two circular virtual keyboards, allowing the left and right hands to control separate keyboards.
 
 ## Features
 
