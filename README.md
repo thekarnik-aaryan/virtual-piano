@@ -196,7 +196,11 @@ later usage command key :
 .venv\Scripts\activate
 python app.py
 ```
-
+Later usage command key :
+```bash
+.venv\Scripts\activate
+python app.py
+```
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
