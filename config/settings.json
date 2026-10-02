@@ -1,0 +1,30 @@
+{
+    "window": {
+        "title": "Virtual Piano Hands",
+        "width": 1280,
+        "height": 720,
+        "fps": 60,
+        "fullscreen": false
+    },
+
+    "camera": {
+        "index": 0,
+        "mirror": true
+    },
+
+    "keyboard": {
+        "radius": 180,
+        "gap": 250,
+        "keys": 12
+    },
+
+    "audio": {
+        "volume": 0.8,
+        "polyphony": 32
+    },
+
+    "debug": {
+        "show_fps": true,
+        "show_camera": true
+    }
+}
